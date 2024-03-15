@@ -1,2 +1,6 @@
-openai
-flask
+openai #GPT_LLM
+flask #Future use
+cohere #cohere_LLM
+python-dotenv
+dataclasses
+os
